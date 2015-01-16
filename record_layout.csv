@@ -1,0 +1,87 @@
+table,field name,description
+community-based_programs,CERTIFICATIONID,Unique identifier attached to each form
+community-based_programs,DESCRIPTION,Description of item
+community-based_programs,JUSTICE,Justice funds expended
+funds_received_from_other_agencies,AGENCY,Name of Agency
+funds_received_from_other_agencies,CERTIFICATIONID,Unique identifier attached to each form
+funds_received_from_other_agencies,JUSTICE,Justice funds expended
+funds_received_from_other_agencies,NCIC,National Crime Information Center agency identifier
+funds_received_from_other_agencies,TREASURY,Treasury funds expended
+funds_transferred_to_other_agencies,AGENCY,Name of Agency
+funds_transferred_to_other_agencies,CERTIFICATIONID,Unique identifier attached to each form
+funds_transferred_to_other_agencies,JUSTICE,Justice funds expended
+funds_transferred_to_other_agencies,NCIC,National Crime Information Center agency identifier
+funds_transferred_to_other_agencies,TREASURY,Treasury funds expended
+matching_grants,CERTIFICATIONID,Unique identifier attached to each form
+matching_grants,JUSTICE,Justice funds expended
+matching_grants,MATCHING_GRANT_NAME,Name of grant
+matching_grants,TREASURY,Treasury funds expended
+other_expenses,CERTIFICATIONID,Unique identifier attached to each form
+other_expenses,DESCRIPTION,Description of item
+other_expenses,JUSTICE,Justice funds expended
+other_expenses,TREASURY,Treasury funds expended
+spending_master,AGENCYNAME,Name of Agency
+spending_master,AGENCYTYPE,"NG = National Guard Counterdrug Unit, OT = Other, PD = Police Department, PO = Prosecutor's Office, SO = Sheriff's Office, TF = Task Force"
+spending_master,CERTIFICATIONID,Unique identifier attached to each form
+spending_master,CURRENTFYBUDGET,Budget during reported fiscal year
+spending_master,DISCRIM,Tells whether during the past fiscal year the Agency been part of any proceedings alleging discrimination by the Agency
+spending_master,FYENDDATE,End of agencies fiscal year
+spending_master,GOVBODYHEADNAME,"Name of person from agency governing police (i.e. Mayor, Governor) who signed off on form"
+spending_master,GOVBODYHEADTITLE,"Title of person from agency governing police (i.e. Mayor, Governor) who signed off on form"
+spending_master,J_TOTAL,Total Justice Department funds spent or transferred
+spending_master,JUSTICE_A,"Total Justice Department funds spent on salaries for new, temporary, not to exceed 1-year employees"
+spending_master,JUSTICE_B,Total Justice Department funds spent on overtime
+spending_master,JUSTICE_C,"Total Justice Department funds spent on informants, ""buy money"" and rewards"
+spending_master,JUSTICE_D,Total Justice Department funds spent on travel and training
+spending_master,JUSTICE_E,Total Justice Department funds spent on communications and computers
+spending_master,JUSTICE_F,Total Justice Department funds spent on weapons and protective gear
+spending_master,JUSTICE_G,Total Justice Department funds spent on electronic surveillance
+spending_master,JUSTICE_H,Total Justice Department funds spent on building and improvements
+spending_master,JUSTICE_I,Total Justice Department funds transfers to other state and local law enforcement agencies
+spending_master,JUSTICE_J,Total Justice Department funds spent on other law enforcement expenses
+spending_master,JUSTICE_K,Total Justice Department funds Expenditures in Support of Community-based Programs
+spending_master,JUSTICE_L,Total Justice Department funds Windfall Transfers to Other Governmrnt Agencies
+spending_master,JUSTICE_M,Total Justice Department funds spent on matching grants
+spending_master,LAWENFHEADNAME,Name of person from police agency who signed off on form
+spending_master,LAWENFHEADTITLE,Title of person from police agency who signed off on form
+spending_master,LINE1J,"Beginning Equitable Sharing Fund Balance, Justice Department"
+spending_master,LINE1T,"Beginning Equitable Sharing Fund Balance, Treasury"
+spending_master,LINE2J,"Federal Sharing Funds Received, Justice Department"
+spending_master,LINE2T,"Federal Sharing Funds Received, Treasury"
+spending_master,LINE3J,"Federal Sharing Funds Received from Other Law Enforcement Agencies & Task Forces, Justice Department"
+spending_master,LINE3T,"Federal Sharing Funds Received from Other Law Enforcement Agencies & Task Forces, Treasury"
+spending_master,LINE4J,"Other Income, Justice Department"
+spending_master,LINE4T,"Other Income, Treasury"
+spending_master,LINE5J,"Interest Income Accrued, Justice Department"
+spending_master,LINE5T,"Interest Income Accrued, Treasury"
+spending_master,LINE6J,"Total Equitable Sharing Funds, Justice Department"
+spending_master,LINE6T,"Total Equitable Sharing Funds, Treasury"
+spending_master,LINE7J,"Federal Sharing Funds Spent, Justice Department"
+spending_master,LINE7T,"Federal Sharing Funds Spent, Treasury"
+spending_master,LINE8J,"Ending Balance, Justice Department"
+spending_master,LINE8T,"Ending Balance, Treasury"
+spending_master,NCIC,National Crime Information Center agency identifier
+spending_master,NONCASHASSETS,Tells whether during the past fiscal year the Agency received non-cash assets from the federal government through Equitable Sharing
+spending_master,PARTICIPANT,Whether agency is new to program or has participated in previous years. Also notes when form was amended
+spending_master,STATE,State of agency
+spending_master,T_TOTAL,Total Justice Department funds spent or transferred
+spending_master,TREASURY_A,"Total Justice Department funds spent on salaries for new, temporary, not to exceed 1-year employees"
+spending_master,TREASURY_B,Total Justice Department funds spent on overtime
+spending_master,TREASURY_C,"Total Justice Department funds spent on informants, ""buy money"" and rewards"
+spending_master,TREASURY_D,Total Justice Department funds spent on travel and training
+spending_master,TREASURY_E,Total Justice Department funds spent on communications and computers
+spending_master,TREASURY_F,Total Justice Department funds spent on weapons and protective gear
+spending_master,TREASURY_G,Total Justice Department funds spent on electronic surveillance
+spending_master,TREASURY_H,Total Justice Department funds spent on building and improvements
+spending_master,TREASURY_I,Total Justice Department funds transfers to other state and local law enforcement agencies
+spending_master,TREASURY_J,Total Justice Department funds spent on other law enforcement expenses
+spending_master,TREASURY_L,Total Justice Department funds Windfall Transfers to Other Governmrnt Agencies
+spending_master,TREASURY_M,Total Justice Department funds spent on matching grants
+spending_master,VERSION,Version of form
+task_force_members,AGENCYNAME,Name of Agency
+task_force_members,CERTIFICATIONID,Unique identifier attached to each form
+task_force_members,NCIC,National Crime Information Center agency identifier
+windfall_transfers,CERTIFICATIONID,Unique identifier attached to each form
+windfall_transfers,JUSTICE,Justice funds expended
+windfall_transfers,RECIPIENT,Recipient of windfall transfer
+windfall_transfers,TREASURY,Treasury funds expended
